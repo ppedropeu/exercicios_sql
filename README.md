@@ -17,7 +17,7 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 
 ### Lista de exercícios
 
-- `00_tables.sql` — Lista os nomes de todas as tabelas existentes no banco de dados atualmente conectado.
+- [00_tables.sql](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/01_aula_Where/00_tables.sql) — Lista os nomes de todas as tabelas existentes no banco de dados atualmente conectado.
 - `01_select.sql` — Seleciona todas as colunas de identificação e registro de data e hora da tabela de clientes..
 - `02_select_from.sql` — Seleciona os identificadores e nomes de um máximo de dez produtos da tabela de produtos.
 - `03_select_from_where.sql` — Seleciona todas as colunas de um máximo de dez produtos cuja categoria é 'rpg'.
