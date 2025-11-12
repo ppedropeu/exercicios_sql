@@ -34,7 +34,9 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`02_distinct.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/02_distinct.sql) — A consulta retorna uma lista de combinações únicas dos valores contidos nas colunas flTwitch e flEmail da tabela clientes.
 - [`03_count_distinct.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/03_count_distinct.sql) — Conta a quantidade de transações que aconteceram em julho/2025.
 - [`04_count_distinct.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Conta a quantidade de transações por id de clientes, que aconteceram em julho/2025.
+- [`05_sum_v2.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Soma a quantidade pontos totais, pontos positivos e pontos negativos.
 - [`05_sum.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Conta a quantidade de pontos positivos no mes de Julho/2025.
+- [`06_stats.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Exemplos de funções de agregação como AVG, MIN, MAX e SUM
 ---
 ### Lista de exercícios práticos
 
