@@ -38,6 +38,12 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`05_sum.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Conta a quantidade de pontos positivos no mes de Julho/2025.
 - [`06_stats.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/06_stats.sql) — Exemplos de funções de agregação como AVG, MIN, MAX e SUM
 ---
+### Lista de exercícios aula 04
+- [`01_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Conta a quantidade de produtos para cada idproduto.
+- [`02_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/06_stats.sql) — Me diz o top 10 clientes que mais fizeram pontos no mês de Julho/2025.
+
+---
+
 ### Lista de exercícios práticos
 
 - [`01_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/01_where.sql) — Seleciona todas as informações dos clientes que possuem um e-mail cadastrado (onde o indicador de flag é '1').
