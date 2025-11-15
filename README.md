@@ -39,8 +39,8 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`06_stats.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/06_stats.sql) — Exemplos de funções de agregação como AVG, MIN, MAX e SUM
 ---
 ### Lista de exercícios aula 04
-- [`01_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/04_count_distinct.sql) — Conta a quantidade de produtos para cada idproduto.
-- [`02_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/06_stats.sql) — Me diz o top 10 clientes que mais fizeram pontos no mês de Julho/2025.
+- [`01_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/04_aula_group_by/01_group_by.sql) — Conta a quantidade de produtos para cada idproduto.
+- [`02_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/04_aula_group_by/02_group_by.sql) — Me diz o top 10 clientes que mais fizeram pontos no mês de Julho/2025.
 
 ---
 
