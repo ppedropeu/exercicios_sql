@@ -24,7 +24,7 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`04_select_as.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/01_aula_Where/04_select_as_col.sql) — Seleciona os IDs e pontos de 10 clientes, calculando pontos transformados e extraindo a data de criação formatada, incluindo o dia da semana.
 - [`05_order_by.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/01_aula_Where/05_order_by.sql) — Seleciona todas as colunas de um máximo de dez produtos cuja categoria é 'rpg'.
 ---
-### Lista de exercícios aula 02
+### Lista de exercícios CASE WHEN
 
 - [`01_case_when_then_end.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/02_aula_Case_when_then/01_case_when.sql) — Lista o ID da transação e a pontuação, classificando cada transação como 'Baixo', 'Medio' ou 'Alto' com base na quantidade de pontos, e ordena o resultado pela pontuação.
 ---
@@ -41,10 +41,11 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 ### Lista de exercícios aula 04
 - [`01_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/04_aula_group_by/01_group_by.sql) — Conta a quantidade de produtos para cada idproduto.
 - [`02_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/04_aula_group_by/02_group_by.sql) — Me diz o top 10 clientes que mais fizeram pontos no mês de Julho/2025.
+- [`03_group_by_having.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/04_aula_group_by/03_group_by_having.sql) — Quais clientes juntaram pontos acima de 7000 em julho.
 
 ---
 
-### Lista de exercícios práticos
+### Lista de exercícios práticos WHERE
 
 - [`01_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/01_where.sql) — Seleciona todas as informações dos clientes que possuem um e-mail cadastrado (onde o indicador de flag é '1').
 - [`02_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/02_where.sql) — Seleciona todas as informações de transações que resultaram em exatamente 50 pontos.
@@ -58,6 +59,17 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`10_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/10_where.sql) — Seleciona o ID e o nome dos produtos cuja descrição termina com a palavra "Lover".
 - [`11_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/11_where.sql) — Seleciona o ID e o nome de todos os produtos cuja descrição contenha a palavra 'chapéu' em qualquer posição.
 - [`12_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/12_where.sql) — Seleciona os detalhes de todas as transações que incluem o produto específico de ID 15 ("Resgatar Ponei").
+---
+
+### Lista de exercícios práticos WHERE
+- [`01_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/01_group_by.sql) — Quantos clientes tem e-mail cadastrado?.
+- [`02_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/02_group_by.sql) — Qual cliente juntou mais pontos positivos em julho/2025?.
+- [`03_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/03_group_by.sql) — Qual cliente fez mais transações no ano de 2024?.
+- [`04_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/04_group_bt.sql) — Quantos produtos são de RPG?.
+- [`05_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/05_group_by.sql) — Qual a média de pontos positivos por dia?.
+- [`06_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/06_group_by.sql) — Qual o dia da semana que tem mais pedidos em 2025?.
+- [`07_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/07_group_by.sql) — Qual o produto mais transacionado?.
+- [`08_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/08_group_by.sql) — Qual produto com mais pontos transacionados?.
 ---
 
 ## Tecnologias utilizadas
