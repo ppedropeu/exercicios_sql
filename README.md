@@ -27,7 +27,9 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 ### Lista de exercícios CASE WHEN
 
 - [`01_case_when_then_end.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/02_aula_Case_when_then/01_case_when.sql) — Lista o ID da transação e a pontuação, classificando cada transação como 'Baixo', 'Medio' ou 'Alto' com base na quantidade de pontos, e ordena o resultado pela pontuação.
+
 ---
+
 ### Lista de exercícios aula 03
 
 - [`01_count.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/03_aula_Count/01_count.sql) — A consulta retorna o número total de linhas (registros) contidos na tabela clientes.
@@ -59,6 +61,7 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`10_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/10_where.sql) — Seleciona o ID e o nome dos produtos cuja descrição termina com a palavra "Lover".
 - [`11_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/11_where.sql) — Seleciona o ID e o nome de todos os produtos cuja descrição contenha a palavra 'chapéu' em qualquer posição.
 - [`12_where.sql`](https://github.com/ppedropeu/sql_com_teo_calvo/blob/main/Exercicios/01_Exercicios_where/12_where.sql) — Seleciona os detalhes de todas as transações que incluem o produto específico de ID 15 ("Resgatar Ponei").
+
 ---
 
 ### Lista de exercícios práticos WHERE
@@ -70,6 +73,7 @@ Os códigos são organizados para refletir a progressão do curso ou por tópico
 - [`06_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/06_group_by.sql) — Qual o dia da semana que tem mais pedidos em 2025?.
 - [`07_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/07_group_by.sql) — Qual o produto mais transacionado?.
 - [`08_group_by.sql`](https://github.com/ppedropeu/exercicios_sql/blob/main/Exercicios/03_Exercicios_group_by/08_group_by.sql) — Qual produto com mais pontos transacionados?.
+
 ---
 
 ## Tecnologias utilizadas
