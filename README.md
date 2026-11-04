@@ -17,7 +17,7 @@ Os códigos estão organizados em pastas, separadas pelos cursos que estou reali
 ### 1. Curso: SQL Server
 *Pasta dedicada aos exercícios e práticas utilizando o Microsoft SQL Server.*
 
-- [`01_SELECT.sql`](./001_Curso_sql_server/Desafio _1_-_SELECT.sql) — Recupera as informações de colunas específicas, utilizando alias. Filtrando com WHERE e classificando com ORDER BY ASC
+- [`01_SELECT.sql`](./001_Curso_sql_server/Desafio_1_-_SELECT.sql) — Recupera as informações de colunas específicas, utilizando alias. Filtrando com WHERE e classificando com ORDER BY ASC
 
 ---
 
